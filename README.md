@@ -14,9 +14,12 @@
 
 ![image](https://user-images.githubusercontent.com/82468713/199539178-a35d96aa-08f0-4949-9899-8469ac75ec6a.png)
 
-3. Go to `http://localhost/phpmyadmin` >> New >> Import >> upload the 'cancermitr.sql' file.
+3. Go to `http://localhost/phpmyadmin` >> New and create a Databse with the name `cancermitr`.  `(note: use proper spelling)`
+![image](https://user-images.githubusercontent.com/82468713/199546800-2a54e69e-4cba-41d0-96f2-3c7303178cb6.png)
+ 
+4. Then click on `cancermitr` >> Import >> upload the 'uploadedfiles.sql' file. This will create your table.
 
-![image](https://user-images.githubusercontent.com/82468713/199538656-192cc1c4-8862-4c8c-8e7d-5b0ae5aa4120.png)
+![image](https://user-images.githubusercontent.com/82468713/199547207-ad9a0ce9-e7ae-4874-9122-b7bed7cc9e3b.png)
 
 4. Go back to XAMPP and click on 'Config' >> Apache(httpd.conf)
 
